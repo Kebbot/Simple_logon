@@ -1,0 +1,81 @@
+body{
+  background-color: brown;
+}
+.centr{
+  background-color: aliceblue;
+  text-align: center;
+  height: 400px;
+  padding: 10px;
+  max-width: 500px;
+  margin: auto;
+  margin-top: 70px;
+}
+.fom{
+  width: 50%;
+  padding: 12px 20px;
+  margin-top:30px;
+  text-align: center;
+  font-family: "Impact", fantasy;
+  font-size:larger;
+}
+.bim{
+  
+  color: brown;
+  font-family: "Impact", fantasy;
+  font-size:larger;
+  display: block;
+  margin-top: 50px;
+}
+.dawef{
+  display: block;
+  width: 50%;
+  padding: 12px 20px;
+  margin-top:30px;
+  margin-left: 105px;
+  background-color: #f4f4f4;
+  border: 1px #333;
+  text-decoration: none;
+  color: #fcfcfc;
+  text-align: center;
+  background-color: #69d69a;
+  font-family: "Impact", fantasy;
+  font-size:larger;
+}
+.pof{
+  color: rgb(255, 255, 255);
+  text-align: center;
+  height: 10px;
+  
+  max-width: 500px;
+  margin: auto;
+  margin-top: 20px;
+}
+.log_t{
+  display:block;
+  width: 80px;
+  padding: 12px 20px;
+  border: 1px #333;
+  text-decoration: none;
+  color: #fcfcfc;
+  text-align: center;
+  background-color: #4f92eb;
+  float: left;
+}
+.log_v{
+  display:block;
+  width:80px;
+  padding: 12px 20px;
+  background-color: #54d8f0;
+  text-decoration: none;
+  color: #fcfcfc;
+  text-align: center;
+  float: right;
+}
+.fot{
+  
+  text-align: center;
+  height: 50px;
+  max-width: 300px;
+  margin: auto;
+  margin-top: 20px;
+}
